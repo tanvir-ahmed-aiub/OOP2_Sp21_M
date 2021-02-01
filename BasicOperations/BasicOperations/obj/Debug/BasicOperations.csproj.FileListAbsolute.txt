@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\bin\Debug\BasicOperations.exe
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\obj\Debug\BasicOperations.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\obj\Debug\BasicOperations.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\obj\Debug\BasicOperations.exe
+F:\Teaching\OOP2 Spring 20-21\M\BasicOperations\BasicOperations\obj\Debug\BasicOperations.pdb
