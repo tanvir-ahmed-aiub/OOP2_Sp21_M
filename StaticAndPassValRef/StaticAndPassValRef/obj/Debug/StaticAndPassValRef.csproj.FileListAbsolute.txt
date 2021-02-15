@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\bin\Debug\StaticAndPassValRef.exe.config
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\bin\Debug\StaticAndPassValRef.exe
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\bin\Debug\StaticAndPassValRef.pdb
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\obj\Debug\StaticAndPassValRef.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\obj\Debug\StaticAndPassValRef.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\obj\Debug\StaticAndPassValRef.exe
+F:\Teaching\OOP2 Spring 20-21\M\StaticAndPassValRef\StaticAndPassValRef\obj\Debug\StaticAndPassValRef.pdb
